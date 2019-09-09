@@ -1,0 +1,38 @@
+.new{
+    width: 100%;
+    height: 100vh;
+    background: #e5657d;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.moses{
+    width: 100%;
+    height: 100vh;
+    background: #e5657d;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+}
+
+.random{
+    width: 100%;
+    height: 100vh;
+    background: #b6adaf;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+
+.btn{
+    padding: 14px 28px;
+    text-transform: uppercase;
+    background: #e5657d;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
